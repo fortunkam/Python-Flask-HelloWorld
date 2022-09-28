@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'plsworkGuruji'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8E079F8E344342CD87FCB5B3F100FD4A }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_168597711EF249589B0B73423DC98FB4 }}
